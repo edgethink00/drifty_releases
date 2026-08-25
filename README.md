@@ -8,17 +8,17 @@ Website: [https://drifty.so](https://drifty.so)
 
 ## About this repository
 
-This public repository contains signed release downloads, public release notes, and issue tracking for the drifty Mac app. The application source code is private.
+This public repository contains signed release downloads, concise public release notes, and issue tracking for the drifty Mac app. The application source code is private.
 
 ## Downloads
 
 Download the latest supported stable release from the [Releases page](https://github.com/edgethink00/drifty_releases/releases/latest). Manual downloads use the signed and notarized DMG asset only.
 
-Superseded stable entries are historical provenance records and are not supported or promoted. Legacy beta and numbered prerelease binaries are not available for public download.
+Public release history begins at 1.6.0. Retained older versions are unsupported rollback records; releases before 1.6.0 and numbered prereleases are not distributed here.
 
 ## Release channels
 
-- Stable: numbered GitHub Releases. Only the latest stable release is supported and promoted.
+- Stable: numbered GitHub Releases with user-facing notes. Only the latest stable release is supported and promoted.
 - Developer candidate: the fixed `pre-release-channel`, containing updater-only assets for one candidate at a time. It is not a manual-download page.
 - Internal and test builds: private short-lived artifacts; never published here.
 
