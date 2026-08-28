@@ -1,0 +1,11 @@
+{
+  "version": "1.9.0",
+  "notes": "Developer pre-release candidate covering changes after Drifty 1.8.1, including the pre-sign-in update prompt fix.",
+  "pub_date": "2026-08-28T03:39:42Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0poWG5UN0kzQk1vZS9sVUdJL2xua01DUzRmRExiWVNOM3NBY213d043YXd4Uzk3R2FQS1k3cDRqZm1BRkUzbnJFeFc5L3NTM290VHhHTWVic3duZ0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODg4MjQyCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKMXh3MTNVbXZzSTE1UTUxUjljc2FlL01wR0NXczNsb05IU0h4NXdwdW93OS9lNHFJTmVYTmFoOXVQelhod0hpZDg1TEN6NE02REtMUXIyODlxTGhlQ2c9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.9.0-rc.1/drifty-1.9.0-a1f60744-aarch64.app.tar.gz"
+    }
+  }
+}

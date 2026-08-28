@@ -14,12 +14,13 @@ This public repository contains signed release downloads, concise public release
 
 Download the latest supported stable release from the [Releases page](https://github.com/edgethink00/drifty_releases/releases/latest). Manual downloads use the signed and notarized DMG asset only.
 
-Public release history begins at 1.6.0. Retained older versions are unsupported rollback records; releases before 1.6.0 and numbered prereleases are not distributed here.
+Public release history begins at 1.6.0. Retained older versions are unsupported rollback records. Developer release candidates may appear as updater-only numbered prereleases and are not manual download choices.
 
 ## Release channels
 
 - Stable: numbered GitHub Releases with user-facing notes. Only the latest stable release is supported and promoted.
-- Developer candidate: the fixed `pre-release-channel`, containing updater-only assets for one candidate at a time. It is not a manual-download page.
+- Developer candidate: [`latest-prerelease.json`](latest-prerelease.json) points to signed updater-only assets on an immutable numbered prerelease. It is not a manual-download channel.
+- Legacy candidate channel: the immutable `pre-release-channel` release is retained for historical clients and is no longer updated.
 - Internal and test builds: private short-lived artifacts; never published here.
 
 ## Feedback
