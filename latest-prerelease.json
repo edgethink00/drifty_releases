@@ -1,11 +1,11 @@
 {
-  "version": "1.9.3",
-  "notes": "Developer pre-release candidate with richer Companion behavior, more reliable managed-local AI classification, expanded local agent usage support, and app polish.",
-  "pub_date": "2026-08-31T05:25:28Z",
+  "version": "1.10.0",
+  "notes": "Drifty 1.10.0 developer update candidate.",
+  "pub_date": "2026-09-02T08:12:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0hGNXYxdGRBUlJQRGg1RitxYSszY0FtcGZBa25PY05jVEFjNXhiTFFjZEppTlIwRE5DczBGM2tERGVqY29zYnpvdXFxeExiVVRxK1U2cTBKcWtnckEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTQ3MzQwCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKakhhdkRONHhSdWdxV1kzUTNNTnl3RHhIaXp0SGtPRXNxL3hwKzdoMHh4NDNnV242RVpyRFUxMVBGYVRLMzQ4VWdFc0xKejFWVFAvMDYxSmd0RzMrQ1E9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.9.3-rc.1/drifty-1.9.3-9ea48885-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0R1UWJXQUs2cERQSWpRZzZLU04rejVGY21PcFJhZHdnRU1haXZFMnRicGY0dnBqbWV2R0Y1ZGlHZUl2RW9WeDZPMWxEeStZSkloMUM4OFZaZGZqekFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzM2MjU1CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKa29wZ2J1WmZKSGNUc1IwYWpKK1ZsUjZWOHNrYnliSk1KempNM1o4ZmJXNFFJdVpYUTdEUDNIZUc5Tk16aFczeWJ3OTRpNWhCVStYak95S0VHZkZBREE9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.10.0-rc.1/drifty-1.10.0-3b57f10b-aarch64.app.tar.gz"
     }
   }
 }
