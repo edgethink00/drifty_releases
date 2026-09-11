@@ -1,11 +1,11 @@
 {
   "version": "1.11.6",
-  "notes": "Drifty 1.11.6 developer update candidate (RC 1).",
-  "pub_date": "2026-09-11T08:18:34.295Z",
+  "notes": "Drifty 1.11.6 developer update candidate (RC 2).",
+  "pub_date": "2026-09-11T08:42:16.065Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0o0dlN3UVp6QStDL0NXQ3crNDl0eDFWSG1YR1hTN25lUjlMdFBiN0RFeHBBeTYyUjJFQ3lBUHZjRVBiaWFKeUtDQ1diWnI0dHFLOW1UK3g4V1FTQWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE0NjQ3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKdjlzVTdycGhndHlMOHJQNEQ4OWRjSUQ1YVNJWFJHclVSdUNoM0dvVkNabU5pYnloV3RPemZta0NwTVNteXdnblhpODd5NGxCdTFSOHRkWXpLOUE4Q3c9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.6-rc.1/drifty-1.11.6-3202cba6-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0JnQ0VFZTFhbmtUVmxEOW9hQ1hYbVhMbUZoTEllV0twNS9UanVUdzZRbXZZeFd1T3gybWFmMDBKQ3lBb1JDUE51cEpSajZuV0MwRkEvS1VITWZGcUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE2MDgwCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKTzBBdkRGam43d2kvTTYvQWVvbldwZVFWU0EvOEw5ZjJlM2NYSzM4TmdYNW1YS2Q3T3JHWitCVE9uaExBWUl6bWhybUo1cXNJZEtpRmNaU1M5YzZRQlE9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.6-rc.2/drifty-1.11.6-6e2106ec-aarch64.app.tar.gz"
     }
   }
 }
