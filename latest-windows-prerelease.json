@@ -1,11 +1,11 @@
 {
-  "version": "1.11.20",
-  "notes": "Drifty Windows Beta 0.0.6.",
-  "pub_date": "2026-09-25T22:24:45.000Z",
+  "version": "1.11.21",
+  "notes": "Drifty Windows Beta 0.0.7.",
+  "pub_date": "2026-09-26T10:40:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0J1eW55cUpwbm9ZZ0ZaYU5TaXJPUFBqNFpxamlGTU1hSFpOVWtLWGxLRW5Pc2s1bTAxOVJ5TVFNT3lRT25UNmJ3S21NTnZieS9Ea2NKem0zU0lEQlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzc0ODgxCWZpbGU6ZHJpZnR5XzEuMTEuMjBfeDY0LXNldHVwLmV4ZQpTb0FXSzd1WFBiWGJtWkZSdW5CRjYwb1NqbS9IaUdmMndIb3FMNXRVSDlaL3RCZDQvUWFkdTZseVZwM1o1QXlFalMvOWdkWHBMbml5QU1ITlViQUJCQT09Cg==",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.20-winbeta.6/drifty_1.11.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01hdnUwcHVsUmlUaFFIS29sMFZVb1pQdTgyamJiNTdNSXcrMGJCYjUrZnJjRVY4V2JCenc1WHhWMWZYOUdTYXhLSE9SYVRVWTRpL0JtTFNCckoycHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDE3NTM1CWZpbGU6ZHJpZnR5XzEuMTEuMjFfeDY0LXNldHVwLmV4ZQoxc0RDaEFxbjlxVHh3TE1ZU0k5dFZFblZZdUI3cW8rVzlPUngxcUJuSzl1c2pWV2FKRDNhem40MEE3VDlUb3VqVmJQckpPZXQxb0pFWHlJQlo3ek1BUT09Cg==",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.21-winbeta.7/drifty_1.11.21_x64-setup.exe"
     }
   }
 }
