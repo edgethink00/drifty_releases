@@ -1,11 +1,11 @@
 {
-  "version": "1.11.22",
-  "notes": "Drifty Windows 1.11.22.",
-  "pub_date": "2026-09-27T12:06:38.000Z",
+  "version": "1.11.24",
+  "notes": "Preserve saved sign-in sessions after restore failures, retain manual classification corrections, and improve Windows capture and update reliability.",
+  "pub_date": "2026-09-28T22:53:16.436Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NLRFV0RzI5UWpqZk5GYzZWVnhxYUdCUmlUaU5tUWd2MTYzWWFyU3EyWVAzRWNQclM0UEh0Q20yZWNUNG4rOXhHR01OQllxZzJYVjFWMWw0MkYwbndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTA3OTI2CWZpbGU6ZHJpZnR5XzEuMTEuMjJfeDY0LXNldHVwLmV4ZQo5aENJVU1NMmxaSG1PZ3lzVXhIeElvZk50c3VNWEdxQ0Y2SkxhMzBkYmhkNisxS2E5RWJxWHA2ZUNYb2E1QzQyckRZUFZIWC90WTZnMnN5YXBxU2JBQT09Cg==",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.22-win/drifty_1.11.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01zeGJDdFp6VzRmNUZvOUE0N1VnNUxKcVRXWiszRzVqejNQNHRTRU8weUtUS3Baci9oUWRzZ1ltMlJIVFkzRlVpbnRsVnpCeDdmRjFqZlRHcE5tMWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM1ODUyCWZpbGU6ZHJpZnR5XzEuMTEuMjRfeDY0LXNldHVwLmV4ZQpmSUtUbU1pa2NULzIycFEvZDQxMWxSVER6VmJFNzdPZ1A2STBoWGh1Y1VGckZjRFpWNExQM0N4NFlqY1paOE01S0lQTVZHblA4SEk3amJLbVRIY2lEZz09Cg==",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.24-win/drifty_1.11.24_x64-setup.exe"
     }
   }
 }
