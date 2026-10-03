@@ -5,7 +5,9 @@ import { readFileSync } from 'node:fs';
 
 // Public updater key baked into the production app. No signing secret is used.
 const publicKey = 'dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4QUI1Q0UxNUIwNzcwNjAKUldSZ2NBZGI0VnlyK0ZjbG92YTdQNkJseGk3Qjd2QkpJQU00cmRndHl5YXhOODZjZVFwMytYdlgK';
-const pointer = 'latest-windows-prerelease.json';
+assert.ok(process.argv.length === 2 || (process.argv.length === 3 && process.argv[2] === '--stable'));
+const stable = process.argv[2] === '--stable';
+const pointer = stable ? 'latest-windows.json' : 'latest-windows-prerelease.json';
 const snapshot = readFileSync(pointer);
 const manifest = JSON.parse(snapshot);
 assert.match(manifest.version, /^\d+\.\d+\.\d+$/u);
@@ -17,19 +19,29 @@ const match = url.match(/^https:\/\/github\.com\/edgethink00\/drifty_releases\/r
 assert.ok(match);
 const [, tag, filename] = match;
 assert.equal(filename, installerName);
-assert.match(tag, /^\d+\.\d+\.\d+-winbeta\.\d+$/u);
-assert.ok(tag.startsWith(`${manifest.version}-winbeta.`));
+if (stable) assert.equal(tag, `${manifest.version}-win`);
+else {
+  assert.match(tag, /^\d+\.\d+\.\d+-winbeta\.\d+$/u);
+  assert.ok(tag.startsWith(`${manifest.version}-winbeta.`));
+}
 
 if (process.env.BASE_SHA) {
   assert.match(process.env.BASE_SHA, /^[a-f0-9]{40}$/u);
-  for (const file of ['latest-windows.json', 'latest-prerelease.json']) {
+  const oldBytes = execFileSync('git', ['show', `${process.env.BASE_SHA}:${pointer}`]);
+  // The workflow for the changed channel enforces isolation. When shared
+  // verifier code changes, the other workflow also validates its unchanged
+  // feed without rejecting the independently verified channel advancement.
+  const isolatedFiles = ['latest-prerelease.json', ...(snapshot.equals(oldBytes) ? [] : [stable ? 'latest-windows-prerelease.json' : 'latest-windows.json'])];
+  for (const file of isolatedFiles) {
     assert.deepEqual(readFileSync(file), execFileSync('git', ['show', `${process.env.BASE_SHA}:${file}`]));
   }
-  const old = JSON.parse(execFileSync('git', ['show', `${process.env.BASE_SHA}:${pointer}`]));
+  const old = JSON.parse(oldBytes);
   const parts = value => value.split('.').map(Number);
   const next = parts(manifest.version), prior = parts(old.version);
   const firstDifference = next.findIndex((value, index) => value !== prior[index]);
-  assert.ok(firstDifference >= 0 && next[firstDifference] > prior[firstDifference], 'Candidate must advance the numeric version');
+  // A verifier-only PR may inspect the unchanged other channel. A changed
+  // pointer must advance its numeric version, including same-version RC swaps.
+  assert.ok(snapshot.equals(oldBytes) || (firstDifference >= 0 && next[firstDifference] > prior[firstDifference]), 'Changed pointer must advance the numeric version');
 }
 
 const download = async endpoint => {
@@ -44,9 +56,9 @@ const download = async endpoint => {
 };
 const release = JSON.parse((await download(`https://api.github.com/repos/edgethink00/drifty_releases/releases/tags/${tag}`)).toString());
 assert.equal(release.draft, false);
-assert.equal(release.prerelease, true);
+assert.equal(release.prerelease, !stable);
 assert.equal(release.tag_name, tag);
-const names = [installerName, `${installerName}.sig`, pointer].sort();
+const names = [installerName, `${installerName}.sig`, pointer, ...(stable ? ['update-policy.json'] : [])].sort();
 assert.deepEqual(release.assets.map(asset => asset.name).sort(), names);
 const assetBytes = new Map();
 for (const asset of release.assets) {
@@ -60,6 +72,21 @@ for (const asset of release.assets) {
 }
 assert.deepEqual(assetBytes.get(pointer), snapshot, 'Live pointer must equal immutable snapshot bytes');
 assert.equal(assetBytes.get(`${installerName}.sig`).toString(), signature);
+if (stable) {
+  const bytes = assetBytes.get('update-policy.json');
+  assert.ok(bytes.length <= 16 * 1024);
+  const policy = JSON.parse(bytes);
+  assert.equal(policy.version, manifest.version);
+  assert.equal(policy.policyVersion, 2);
+  assert.ok(['general', 'urgent'].includes(policy.urgency));
+  assert.equal(policy.backgroundDownload, policy.urgency === 'general');
+  assert.equal(policy.installBehavior, policy.urgency === 'general' ? 'idle' : 'manual');
+  assert.equal(policy.promptAfterHours, 72);
+  assert.equal(policy.autoInstall, false);
+  assert.ok(typeof policy.message === 'string' && policy.message.trim());
+  const latest = JSON.parse((await download('https://api.github.com/repos/edgethink00/drifty_releases/releases/latest')).toString());
+  assert.notEqual(latest.tag_name, tag, 'Windows must not replace the shared Mac latest release');
+}
 
 const decode = (value, size) => {
   assert.match(value, /^[A-Za-z0-9+/]+={0,2}$/u);
@@ -82,4 +109,4 @@ const nativeKey = createPublicKey({ key: Buffer.concat([Buffer.from('302a3005060
 const signatureBytes = packet.subarray(10);
 assert.ok(verify(null, createHash('blake2b512').update(assetBytes.get(installerName)).digest(), nativeKey, signatureBytes), 'Installer signature must verify');
 assert.ok(verify(null, Buffer.concat([signatureBytes, Buffer.from(sigLines[2].slice('trusted comment: '.length))]), nativeKey, decode(sigLines[3], 64)), 'Trusted comment must verify');
-console.log(`Verified ${tag}: three exact public assets, signed installer, isolated monotonic Windows developer pointer.`);
+console.log(`Verified ${tag}: ${names.length} exact public assets, signed installer, isolated monotonic Windows ${stable ? 'stable' : 'developer'} pointer.`);
