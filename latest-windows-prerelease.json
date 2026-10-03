@@ -1,11 +1,11 @@
 {
-  "version": "1.11.25",
-  "notes": "Windows typography, tracking reliability, focus milestones, and background update improvements.",
-  "pub_date": "2026-10-02T16:04:42.313Z",
+  "version": "1.11.26",
+  "notes": "Windows 1.11.26 release candidate: tracker Stop reliability, Quick New Project, historical empty-day guidance, and merged UI improvements.",
+  "pub_date": "2026-10-03T09:39:50.053Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0JkdXBaUDJtTDJxTkVNb1oxNUJzTnR5cWpwWTJhTXdRSEt5VEVDRnFMcUtvMy90RUVEMUxYK3YzUjY5Rm5nNnF4SlRoQWVsRGlyaGI3eW5Od1Z2aUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTUzNjI2CWZpbGU6ZHJpZnR5XzEuMTEuMjVfeDY0LXNldHVwLmV4ZQp6WlZrenJPWkxDTlBVUHVUVEVPOHQvSnQySFIzVEFBT2ZtK21raDhDUzlqM1phWHhXbEVFMnFZTE1UWFZjeG10Tk16Ukx2ZURrMElPWEtCTW5uWUNEdz09Cg==",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.25-win/drifty_1.11.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FBQzE5VmxYdVBaMlZoRTNjckhSUm5DQTZWNjROTWtja3QwOWQrb0NQOU55QVprU2hHUEtjQjVqWDZROHArK05FR1l1MERrMEpCcmhZcjFnTkduQ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDE4OTI0CWZpbGU6ZHJpZnR5XzEuMTEuMjZfeDY0LXNldHVwLmV4ZQo0WnNvakVXc0RpZlVDdVJvZ1M2YStsdzZPNjRlWHRvKzR5MWRoRDNLend5R1pTVTRJd1dJTmpzVW8rUEM4QkNoR01XN1I4RTNFVmFPUWlzNmFwcDRBZz09Cg==",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.26-winbeta.1/drifty_1.11.26_x64-setup.exe"
     }
   }
 }
