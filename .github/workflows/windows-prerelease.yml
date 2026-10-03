@@ -1,0 +1,34 @@
+name: Windows prerelease assets
+
+on:
+  pull_request:
+    paths:
+      - latest-windows-prerelease.json
+      - scripts/verify-windows-prerelease.mjs
+      - .github/workflows/windows-prerelease.yml
+  push:
+    branches: [main]
+    paths:
+      - latest-windows-prerelease.json
+      - scripts/verify-windows-prerelease.mjs
+      - .github/workflows/windows-prerelease.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+      - name: Verify immutable assets and channel isolation
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: node scripts/verify-windows-prerelease.mjs
