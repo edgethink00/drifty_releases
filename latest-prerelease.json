@@ -1,11 +1,11 @@
 {
-  "version": "1.12.0",
-  "notes": "Pro device sync, reviewable AI Memory, privacy and history recovery improvements. Release candidate; installed/update QA is in progress.",
-  "pub_date": "2026-10-05T02:27:39.362Z",
+  "version": "1.12.1",
+  "notes": "Drifty 1.12.1 release candidate: device sync restart, history recovery, and tracking reliability improvements.",
+  "pub_date": "2026-10-07T15:34:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01ON2p2Q0lGL3puMS9kOWo3UVhZblgrK1FrU1p4K3U4cnkzQXBQdmdUYjAxaWNRYmRheUFVYWhQUU1mZGltRk5VTXgrc3JOMXEvNGJmQXpWM1RQdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTY3MDkwCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRVlHcllLQ2hyb3RDcS9XWXZVR1lYTSs4aGltTVllZE8ra0JMLzRIVGxZRlBXTTdudERRa0taOWJhL0NVTkUyOFVwRmJuc0xxOGQxdVdkOEIyb0cyREE9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK05KeU1NcUcvU1FWeE4xZzNkKzJxMU9jLzQwVjZiN1d3T3RPWXBHcDhiWW9nUXp6dENvbm1JSjdFMlQ1a3ZUenJwYlZPdXNCMGp5Tld5U2QrbFVyNGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzg2MDU3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKNnd2Z01QZFIySm55alcrdEY0cWlvcXN2RW1ydUFFZ0J5c0dRL3lOUlhRWUhEUmt0MVVLcm1ZeHFFMGdOZlJZQ0ROZVYxaElKOTcySklQOGt1VjM2Qnc9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.1-rc.1/drifty.app.tar.gz"
     }
   }
 }
