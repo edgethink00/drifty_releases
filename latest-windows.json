@@ -1,11 +1,11 @@
 {
-  "version": "1.11.26",
-  "notes": "Windows tracking Stop reliability, Quick New Project, historical empty-day guidance and compact Insights.",
-  "pub_date": "2026-10-03T12:15:46.149Z",
+  "version": "1.12.1",
+  "notes": "Drifty Windows 1.12.1: safer tracker recovery and device-sync data protection, privacy controls, and desktop reliability fixes.",
+  "pub_date": "2026-10-08T00:38:26.243Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FBQzE5VmxYdVBaMlZoRTNjckhSUm5DQTZWNjROTWtja3QwOWQrb0NQOU55QVprU2hHUEtjQjVqWDZROHArK05FR1l1MERrMEpCcmhZcjFnTkduQ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDE4OTI0CWZpbGU6ZHJpZnR5XzEuMTEuMjZfeDY0LXNldHVwLmV4ZQo0WnNvakVXc0RpZlVDdVJvZ1M2YStsdzZPNjRlWHRvKzR5MWRoRDNLend5R1pTVTRJd1dJTmpzVW8rUEM4QkNoR01XN1I4RTNFVmFPUWlzNmFwcDRBZz09Cg==",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.11.26-win/drifty_1.11.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0E2ZTRnS1dWbWZOdk9sUTRMSWxWSTIrbVFSZXR6TTlpaUlmWU9vcklUcnh0RTdNbVJPcjl2U3J1ZUVQRFBGb0t6RVBoODVERGs1N2RvUEpaVU1nTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE5MDkwCWZpbGU6ZHJpZnR5XzEuMTIuMV94NjQtc2V0dXAuZXhlCnpOTGh5b2t6SzUvSlpCUjc0Wllkb01YZ1RqRkpITCtBSUZvWWpBY2xHVXV1TldGTmQ0eVNzM2xoTlFQOVVrNmQ4YzczTGJTaTR4RzU0TzUydGdrNENBPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.1-win/drifty_1.12.1_x64-setup.exe"
     }
   }
 }
