@@ -1,11 +1,11 @@
 {
-  "version": "1.12.0",
-  "notes": "Drifty Windows Beta 0.0.1: device sync opt-in, AI Memory review, privacy and tracker recovery fixes, Automatic Close and pet improvements. Prerelease testing; installed/update/account QA pending.",
-  "pub_date": "2026-10-06T06:01:26.498Z",
+  "version": "1.12.1",
+  "notes": "Drifty Windows 1.12.1: safer tracker recovery and device-sync data protection, privacy controls, and desktop reliability fixes.",
+  "pub_date": "2026-10-08T00:38:26.243Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0dsT0pvYUxiVDM2Q3dPQ2YwZmI1ZWMzYU5QZFpXbGZwZloyMGdDK2VBTHQvNGtMZWc0SXVyWXlNTG95VjdBQkNJWHYwUkc1eVQ1QXlHUlhGc2dicVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjY2MDMyCWZpbGU6ZHJpZnR5XzEuMTIuMF94NjQtc2V0dXAuZXhlClVqVWhwWkRRSU5VSnBoYjlZRDRXRmt5MWk3dm9PSjJjeWE0NFFDc2piU1c0ZDJuTzd5US9uVkFSZmlyeFR5V3hMdVF2VDVCOTBYYWJFcjVvdmNkdUFnPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.0-winbeta.1/drifty_1.12.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0E2ZTRnS1dWbWZOdk9sUTRMSWxWSTIrbVFSZXR6TTlpaUlmWU9vcklUcnh0RTdNbVJPcjl2U3J1ZUVQRFBGb0t6RVBoODVERGs1N2RvUEpaVU1nTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE5MDkwCWZpbGU6ZHJpZnR5XzEuMTIuMV94NjQtc2V0dXAuZXhlCnpOTGh5b2t6SzUvSlpCUjc0Wllkb01YZ1RqRkpITCtBSUZvWWpBY2xHVXV1TldGTmQ0eVNzM2xoTlFQOVVrNmQ4YzczTGJTaTR4RzU0TzUydGdrNENBPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.1-win/drifty_1.12.1_x64-setup.exe"
     }
   }
 }
