@@ -1,11 +1,11 @@
 {
-  "version": "1.12.1",
-  "notes": "Drifty 1.12.1 release candidate: device sync restart, history recovery, and tracking reliability improvements.",
-  "pub_date": "2026-10-07T15:34:00.000Z",
+  "version": "1.12.2",
+  "notes": "Drifty 1.12.2 release candidate: macOS window stability, browser context, Cloud recovery and async feedback improvements.",
+  "pub_date": "2026-10-08T06:33:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK05KeU1NcUcvU1FWeE4xZzNkKzJxMU9jLzQwVjZiN1d3T3RPWXBHcDhiWW9nUXp6dENvbm1JSjdFMlQ1a3ZUenJwYlZPdXNCMGp5Tld5U2QrbFVyNGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzg2MDU3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKNnd2Z01QZFIySm55alcrdEY0cWlvcXN2RW1ydUFFZ0J5c0dRL3lOUlhRWUhEUmt0MVVLcm1ZeHFFMGdOZlJZQ0ROZVYxaElKOTcySklQOGt1VjM2Qnc9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.1-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK05ybzQrd2hSSkVSY1lDbEx1S1NGcitQMWdRU2h2dndMeXVlYVZYM0l2OGFDQlBzTXFPb3NSOHdNNlZnaUxhdUhXTERySEEvVVBHVEluODlHc3I1RndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQxMDA3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKbm1GQytZb0VKWVdDYWc5OHFPaTVFWC9nR2VqTEpEaVVNRjBRMktiYlNEL2Z1ZTZkdkc1TGNod0xOWjBMZTd4engzQWlnSGhwejI1NjlKdFVyNjd2QWc9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.2-rc.1/drifty.app.tar.gz"
     }
   }
 }
