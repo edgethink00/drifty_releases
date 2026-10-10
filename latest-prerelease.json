@@ -1,11 +1,11 @@
 {
-  "version": "1.12.2",
-  "notes": "Drifty 1.12.2 release candidate: macOS window stability, browser context, Cloud recovery and async feedback improvements.",
-  "pub_date": "2026-10-08T06:33:00.000Z",
+  "version": "1.12.3",
+  "notes": "Drifty 1.12.3: browser context fixes for windowed Chrome and Brave, synced history deletion repairs, onboarding, dialogs and menu bar improvements.",
+  "pub_date": "2026-10-10T14:44:12.215191+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK05ybzQrd2hSSkVSY1lDbEx1S1NGcitQMWdRU2h2dndMeXVlYVZYM0l2OGFDQlBzTXFPb3NSOHdNNlZnaUxhdUhXTERySEEvVVBHVEluODlHc3I1RndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQxMDA3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKbm1GQytZb0VKWVdDYWc5OHFPaTVFWC9nR2VqTEpEaVVNRjBRMktiYlNEL2Z1ZTZkdkc1TGNod0xOWjBMZTd4engzQWlnSGhwejI1NjlKdFVyNjd2QWc9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.2-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0h3dys0SWZRRGxNWit0b014T1J4Qm9xaVBBMG4wVG13RGRjT2w0VFBwcDRUUWpVTElaMjdtUllQS0N3cjlsa1NLSGlTSnlFcStSaUtFQVo5YmFGTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjMyNzY3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKWTgvNmlqZUtjbUdmeCs5cGtCR3VQcDB3NGo2NzlhdHFQYU1MRnpqaVMzbTdBV3BLdS9xQTFQcUljc3d6bmtIdFF0TjJobUVxemlDb3Zpa05NUTFhQ2c9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.3-rc.1/drifty.app.tar.gz"
     }
   }
 }
