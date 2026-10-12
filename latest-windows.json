@@ -1,11 +1,11 @@
 {
-  "version": "1.12.2",
-  "notes": "Drifty Windows 1.12.2: default background blur, steadier Automatic Close in Chrome, quieter Cloud plan recovery and reliability fixes.",
-  "pub_date": "2026-10-09T00:22:00.000Z",
+  "version": "1.12.3",
+  "notes": "Drifty Windows 1.12.3: a single welcome and sign-in screen, clearer Pro and Cloud setup, safer project deletion with Archive, GPT-6 Luna project analysis on Drifty Cloud, and fixes for synced history deletion and your own OpenAI and Anthropic keys.",
+  "pub_date": "2026-10-12T09:30:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK00wRkZLSHZ5cGZSaG9uMlAwb3c5UHVBeEdjUFBCeEQ3RGxFOWxGSUU4eW1Ga0Z5eVFueXk0cHIzcngyYXI5T0lJQnlIcFF1cUovQmg3YmlkMzRLK1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDk0MzQzCWZpbGU6ZHJpZnR5XzEuMTIuMl94NjQtc2V0dXAuZXhlCjBrZ2t4NnM3RW5kUDlwTng0VkZhZFo1RU5BOUFGWlVBbmVYVlVhajdCL1pES1FLaXNTQ0FIUlBpalRxQ0doL2EzVUxnMFJVY2lrVlRtSm5YN0J6MkJnPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.2-win/drifty_1.12.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0pWOUppSy9VYlMyZWE5ZTVaWmkrcmsxMVB2bk51cmxPUlY4akxCM0VMb3R1ZkUybHE0T2l1YS9jNDRPTllHdGM4dW44V2F0MnBwUGZJdkFaYTdRMGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzkwMzQ2CWZpbGU6ZHJpZnR5XzEuMTIuM194NjQtc2V0dXAuZXhlCkpCdTFZYUJWeU55cldoZTB6eDY1VlQ0Z2Z2MCtkeS9aWmxLYWZxOTJUb0ZPak5pVHF6d3QrT3p3N2JEc1RiNHcyNHJvZjBrc3lhM1lHU0xtcHFwVERnPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.3-win/drifty_1.12.3_x64-setup.exe"
     }
   }
 }
