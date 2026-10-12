@@ -1,11 +1,11 @@
 {
-  "version": "1.12.3",
-  "notes": "Drifty 1.12.3: browser context fixes for windowed Chrome and Brave, synced history deletion repairs, onboarding, dialogs and menu bar improvements.",
-  "pub_date": "2026-10-10T14:44:12.215191+00:00",
+  "version": "1.12.4",
+  "notes": "Drifty 1.12.4: Safari, Firefox-family, Whale and Vivaldi page clues, a single Pro plan sheet, a narrower sidebar, Week/Day chart cleanup, simpler settings and update reminder fixes.",
+  "pub_date": "2026-10-12T06:59:59.782+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0h3dys0SWZRRGxNWit0b014T1J4Qm9xaVBBMG4wVG13RGRjT2w0VFBwcDRUUWpVTElaMjdtUllQS0N3cjlsa1NLSGlTSnlFcStSaUtFQVo5YmFGTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjMyNzY3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKWTgvNmlqZUtjbUdmeCs5cGtCR3VQcDB3NGo2NzlhdHFQYU1MRnpqaVMzbTdBV3BLdS9xQTFQcUljc3d6bmtIdFF0TjJobUVxemlDb3Zpa05NUTFhQ2c9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.3-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0xSRWdYUG51UEQ1bVJla0tkbVlqeEhxRkJYMHEzbG82NWhidGtnaEo1WFd5bDRNMFQ0NmhQYUFUZkFkVVNuamZkVTlBOWx6S09UR3VKYUNOdG5mRkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzgxNjQyCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKYlJjVkYzRFNVWWFOMkNFM0tEK0YwRDZ2d3BBTnFlYkJUbUZ2N0ZWZU5za3VTcTdDNEprVnJPeVo1L250MTRnMjh5T2lWNVl2T2NFNHRURnVJY2ZBQmc9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.4-rc.1/drifty.app.tar.gz"
     }
   }
 }
