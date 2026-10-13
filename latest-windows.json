@@ -1,11 +1,11 @@
 {
-  "version": "1.12.3",
-  "notes": "Drifty Windows 1.12.3: a single welcome and sign-in screen, clearer Pro and Cloud setup, safer project deletion with Archive, GPT-6 Luna project analysis on Drifty Cloud, and fixes for synced history deletion and your own OpenAI and Anthropic keys.",
-  "pub_date": "2026-10-12T09:30:00.000Z",
+  "version": "1.12.5",
+  "notes": "Drifty Windows 1.12.5: browser page clues, weekly project view and safer Windows tracker replacement.",
+  "pub_date": "2026-10-13T10:27:30.749Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0pWOUppSy9VYlMyZWE5ZTVaWmkrcmsxMVB2bk51cmxPUlY4akxCM0VMb3R1ZkUybHE0T2l1YS9jNDRPTllHdGM4dW44V2F0MnBwUGZJdkFaYTdRMGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzkwMzQ2CWZpbGU6ZHJpZnR5XzEuMTIuM194NjQtc2V0dXAuZXhlCkpCdTFZYUJWeU55cldoZTB6eDY1VlQ0Z2Z2MCtkeS9aWmxLYWZxOTJUb0ZPak5pVHF6d3QrT3p3N2JEc1RiNHcyNHJvZjBrc3lhM1lHU0xtcHFwVERnPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.3-win/drifty_1.12.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01CbzlNSHNycUFuRmFmSlpNNmlxL0drTlpTUEF1TEl2M2ZDOU8yOWE3QXVTZGZ0clpGdm1XSFpSRHBkOFlSRi82SG9UYXBPNnUzandlUFF4bGk1NkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgwODIzCWZpbGU6ZHJpZnR5XzEuMTIuNV94NjQtc2V0dXAuZXhlClBSd3h2aGJsQmRJK3hDYWV4VkM0ZTZKc2gvQWpVbmRjSWJpMmpRMlZRMWxzRkJQRkJTZ2FOeHo3T1lRNFNVUHpBaWRrbjVSY2NSNStlWXpTVysrWURBPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.5-win/drifty_1.12.5_x64-setup.exe"
     }
   }
 }
