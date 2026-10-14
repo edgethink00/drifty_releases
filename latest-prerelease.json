@@ -1,11 +1,11 @@
 {
-  "version": "1.12.5",
-  "notes": "Drifty 1.12.5: Your Week Project view, Arc and Dia page clues on macOS, a leaderboard share card, an Account Devices section and dashboard polish.",
-  "pub_date": "2026-10-13T09:04:02.873+00:00",
+  "version": "1.12.6",
+  "notes": "More browser page clues, Day review notifications, Dock icon choices, and reliable history and recording controls when reopening with a saved login.",
+  "pub_date": "2026-10-14T19:56:14.003Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0JyK3ZCaUc4MnU4K0srcmhBamJ1MHRZYjQ3bjJobXRBZGwzSkR1M1Mzb2JXYWxaN2djMG1ua1VBQVIxZkljQUF6Q2Rvd1FUbHUxRVZ6RVAxS3dmRWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc2ODg1CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKK0hxNEhUSThEOG5ZOGhrN3BBM0J0NVF3b3ZTN2VQemFQM3h4RTJCUGQxVGMrN1AwQnRxN1pxWW80UVdjRXFiYm1CMFNoV00wUS9EZmwySFpIWS9XQ3c9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.5-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FlQ00wODZiK1NNbDUvVjArZmtFSUZqYjNUdm01dHBZRG1JVEswZEFWMnRzN1ZGQ3NkYnk3REFJZjdpaXo4cG5qQ204TitBY2hUWk55dC9lTGx1UmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDAzNDE0CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKekJGZEV0anlXcVpnT1RpaVA0cWFNaUJCS1hwWGxybzZoV2FwVWFFZFFlWER2WU9QQ3BhMWp4QkJSQUM2ZE9DSEdGQWtYbHhJT1VlVXBXZ3llVVVPQXc9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.6-rc.1/drifty.app.tar.gz"
     }
   }
 }
