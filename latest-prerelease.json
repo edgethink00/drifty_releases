@@ -1,10 +1,10 @@
 {
   "version": "1.12.7",
-  "notes": "Drifty 1.12.7 release candidate: recording and local storage reliability, system appearance, classification settings and supported Mac browser context.",
-  "pub_date": "2026-10-15T10:58:14Z",
+  "notes": "Drifty 1.12.7 Mac release candidate: recording and local storage reliability, system appearance, classification settings, and supported browser context including recovery after closing the Comet assistant.",
+  "pub_date": "2026-10-15T15:59:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0tsekxCR0VzczYxblgveFpJREVxSytwY1dUdlk3SzN0ZGdBMXpaZmpOWCtXdlI4WXkrRzI2QVk1NWlMbW9qT1M3c2R1MVN5ZlZ4YTdSMWM2ZEhMWVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDQxODY3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKaXhGMGNDL1VWOSs5NWRFK0xBREFRbksvNzlObVB4UnZRemRxZDkxRktka0QxZHNRMUt2QUJFK3hxYXJ3cmJzL3lZa2k2VFVtc3BvTnRuZnQxbU9yQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0xGM2ZjQ3UyakQ2WjlVRGUzZ2VkbkFpUDE4UmNJd3M0MWF4c1owY0xQTnFvR3VZckpsY2JxMHZmZFU4K2NaUXVwbzc1b1ozVlhva215QzNsOVFacFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc5Nzc2CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKdkY5MFFCdTdaRWxRZ1hRWFFpMmROVkJmMVI2WEduME1SKzBPOFJzc2VmNjl2WUtPS1lNYW15RStxS2FWaGQ4OWJ5RFY5Z3FoSkV6K211amRaTDFOQ1E9PQo=",
       "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.7-rc.1/drifty.app.tar.gz"
     }
   }
