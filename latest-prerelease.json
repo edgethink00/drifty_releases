@@ -1,11 +1,11 @@
 {
-  "version": "1.12.6",
-  "notes": "More browser page clues, Day review notifications, Dock icon choices, and reliable history and recording controls when reopening with a saved login.",
-  "pub_date": "2026-10-14T19:56:14.003Z",
+  "version": "1.12.7",
+  "notes": "Drifty 1.12.7 release candidate: recording and local storage reliability, system appearance, classification settings and supported Mac browser context.",
+  "pub_date": "2026-10-15T10:58:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FlQ00wODZiK1NNbDUvVjArZmtFSUZqYjNUdm01dHBZRG1JVEswZEFWMnRzN1ZGQ3NkYnk3REFJZjdpaXo4cG5qQ204TitBY2hUWk55dC9lTGx1UmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDAzNDE0CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKekJGZEV0anlXcVpnT1RpaVA0cWFNaUJCS1hwWGxybzZoV2FwVWFFZFFlWER2WU9QQ3BhMWp4QkJSQUM2ZE9DSEdGQWtYbHhJT1VlVXBXZ3llVVVPQXc9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.6-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0tsekxCR0VzczYxblgveFpJREVxSytwY1dUdlk3SzN0ZGdBMXpaZmpOWCtXdlI4WXkrRzI2QVk1NWlMbW9qT1M3c2R1MVN5ZlZ4YTdSMWM2ZEhMWVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDQxODY3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKaXhGMGNDL1VWOSs5NWRFK0xBREFRbksvNzlObVB4UnZRemRxZDkxRktka0QxZHNRMUt2QUJFK3hxYXJ3cmJzL3lZa2k2VFVtc3BvTnRuZnQxbU9yQ3c9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.7-rc.1/drifty.app.tar.gz"
     }
   }
 }
