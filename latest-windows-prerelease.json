@@ -1,11 +1,11 @@
 {
-  "version": "1.12.6",
-  "notes": "Drifty Windows 1.12.6: Comet page clues, Day review notifications, Memory and Sync controls, saved-session history and tracker status repairs.",
-  "pub_date": "2026-10-14T22:07:02.118Z",
+  "version": "1.12.7",
+  "notes": "Drifty 1.12.7 Windows release candidate: recording and local storage reliability, system appearance and classification settings.",
+  "pub_date": "2026-10-15T10:58:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0ZmSkJCQlU3aWxycEdkTW9sV3Z2TzJRMGc2cHdUbGZjOGM0elVNcGNROWNoeE9VK0dCY3VZMmxuWDkrUEhQMXluRUZqSjhGTzBzYjhXWDNVVVpQUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA2ODkyCWZpbGU6ZHJpZnR5XzEuMTIuNl94NjQtc2V0dXAuZXhlCmNJTWxMM3RUYm1JR3M2QVVpYUIyTFdiU3FkNnBCS01zUDhUcFY3Tlg3b1JSYVM5cGZSMWh0UEZTRG9QTldDUDBDclRhbFg5blhJL255MW9Cd3l3RUJ3PT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.6-winbeta.1/drifty_1.12.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01yTzBybFZweGlRWWFDUFJYSGhrRFNHcTc0SkVseGZnekVnYnNiR1ZPcWJiZXl0RWhrbFF3WGFhNWY0VDlTcFdXUEJ1aDBhdnJna1FYMmYrVHkvY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU2OTMwCWZpbGU6ZHJpZnR5XzEuMTIuN194NjQtc2V0dXAuZXhlCldGWEtwS3FmdUVZZ0RIZ1krQ0FjVDNwcGRNdTM2cXA2bEtuS1N0djV6akowa1BkYzI0cFplYzNQQkpqZ3MwTlA2L2VOc3pkU2dlWWUyU2pNd21qWEJRPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.7-winbeta.1/drifty_1.12.7_x64-setup.exe"
     }
   }
 }
