@@ -1,11 +1,11 @@
 {
-  "version": "1.12.7",
-  "notes": "Drifty 1.12.7 Windows release candidate: recording and local storage reliability, system appearance and classification settings.",
-  "pub_date": "2026-10-15T10:58:00.000Z",
+  "version": "1.12.8",
+  "notes": "Drifty Windows 1.12.8 Beta 0.0.1: categories, rule previews, Spanish, and guarded updates/tracker reliability.",
+  "pub_date": "2026-10-16T11:30:21.473Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01yTzBybFZweGlRWWFDUFJYSGhrRFNHcTc0SkVseGZnekVnYnNiR1ZPcWJiZXl0RWhrbFF3WGFhNWY0VDlTcFdXUEJ1aDBhdnJna1FYMmYrVHkvY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDU2OTMwCWZpbGU6ZHJpZnR5XzEuMTIuN194NjQtc2V0dXAuZXhlCldGWEtwS3FmdUVZZ0RIZ1krQ0FjVDNwcGRNdTM2cXA2bEtuS1N0djV6akowa1BkYzI0cFplYzNQQkpqZ3MwTlA2L2VOc3pkU2dlWWUyU2pNd21qWEJRPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.7-winbeta.1/drifty_1.12.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK05GdklFNFJScjcreFE1eXJ1dFJiVmhGTTBmRlpDbnNQTTZaclR3UE5oc3N4Z2kyNXBuMnJibktvTUw1VTVad1UyRGV2SU16TGMzOVJxdXRhTmpGOUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQwMjA5CWZpbGU6ZHJpZnR5XzEuMTIuOF94NjQtc2V0dXAuZXhlCndXQ28wS2NrR01uam5uMnFzUmt1TytuNjdVcjZlc0lrb2pBWVM2UU96amtBVnBXUUZGaHNtMjErb2l2eXBGVDFISHRLS3F3NlliQTBOblo0YnEybkNRPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.8-winbeta.1/drifty_1.12.8_x64-setup.exe"
     }
   }
 }
