@@ -1,11 +1,11 @@
 {
-  "version": "1.12.6",
-  "notes": "Drifty Windows 1.12.6: Comet page clues, Day review notifications, Memory and Sync controls, saved-session history and tracker status repairs.",
-  "pub_date": "2026-10-14T22:10:06.994Z",
+  "version": "1.12.9",
+  "notes": "Windows 1.12.9 adds a unified category editor, custom categories and productivity levels, Spanish, History row actions and clearer Insights. It improves timeline totals, sync deletion/classification handling, Memory and tracker recovery, prevents unnecessary repeat classification saves, and cancels Windows updates if the tracker remains in use.",
+  "pub_date": "2026-10-18T01:50:08.854Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0ZmSkJCQlU3aWxycEdkTW9sV3Z2TzJRMGc2cHdUbGZjOGM0elVNcGNROWNoeE9VK0dCY3VZMmxuWDkrUEhQMXluRUZqSjhGTzBzYjhXWDNVVVpQUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA2ODkyCWZpbGU6ZHJpZnR5XzEuMTIuNl94NjQtc2V0dXAuZXhlCmNJTWxMM3RUYm1JR3M2QVVpYUIyTFdiU3FkNnBCS01zUDhUcFY3Tlg3b1JSYVM5cGZSMWh0UEZTRG9QTldDUDBDclRhbFg5blhJL255MW9Cd3l3RUJ3PT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.6-win/drifty_1.12.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NidEE0dGlaT0kxSDBpSUVLM0VJMEtIY1NmMFZyUGZpbzhzNG9zeStMQWxtd1ppbzROSmE2d0RocXdBaklhQUIvWTg0VGR1Ly9JaDRaRFRWeUNyYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYyNzU0CWZpbGU6ZHJpZnR5XzEuMTIuOV94NjQtc2V0dXAuZXhlCm00UEhEd1FLSkZ1TFZGa0IxTlhOQzZqWGExcEd2aHdxenU4UlhtcVZueUV3blpVZDRpYWE4R0dPTGs0VXphUnlKVXN6b1Zla3RncHNjMEdRbmJLRUJ3PT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.9-win/drifty_1.12.9_x64-setup.exe"
     }
   }
 }
