@@ -1,11 +1,11 @@
 {
-  "version": "1.12.8",
-  "notes": "Drifty 1.12.8 release candidate: custom categories and productivity levels, rule impact previews, Spanish, and tracker/sync reliability.",
-  "pub_date": "2026-10-16T11:30:21.473Z",
+  "version": "1.12.10",
+  "notes": "Fixed tracking failing to resume after a background update on Mac, and improved tracking recovery after automatic restarts.\n\nAlso preserves classification version information and avoids repeated saves of unchanged automatic classifications.",
+  "pub_date": "2026-10-18T14:47:30.295Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0laWGFlRWNKU3dLcS9tRmZjOHk1MEdRYkNzNXM3MExxNWZRbHdVcFdHTklJdy8ySDBNTy83c3dkTFN5dmYrUit0UE1sd3R5YW4vVWJwcWJXeUxkK0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTMyMDA5CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKT0R5MFNkM1lrRzJzV0NBMWE3d0hjNWo4SEZPTlV0bjhzR0l0aEJKK2ZoMmc0WVZBUVcrRnVxR3YrYWtseUZ1VGFHcEVMZUpnOXFOSkZoalZCUG1jQ0E9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.8-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0VjNzQ3enNUblpHdnA2RFNsQmRUaUdyWlE5RkZuKzAvWTRlOGlCUTdOV2NRWStQZS90OS96OWlKcjdrNms3d1FFbUpmUkc0TXJwd0trVWR0THRIWmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzI4NTM0CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKbTNzaFlRMnk5RjZkWEFJQ3YyUTlCYTJZNEpWYXlZVjFZOXJvWGsyd2NxUlpZT0RGRmVPdU5FS2ViK2M3TFN2c1JrNm1KcXQ4eGUxcFlWRWZqS2ppQ0E9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.10/drifty.app.tar.gz"
     }
   }
 }
