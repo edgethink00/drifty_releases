@@ -1,11 +1,11 @@
 {
-  "version": "1.12.9",
-  "notes": "Drifty Windows 1.12.9 Beta 0.0.1: preserve current built-in classifications in history and avoid duplicate equivalent saves.",
-  "pub_date": "2026-10-17T18:49:31.488Z",
+  "version": "1.12.11",
+  "notes": "Updates the networking security dependencies used by the desktop app.",
+  "pub_date": "2026-10-19T09:07:51.751Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NidEE0dGlaT0kxSDBpSUVLM0VJMEtIY1NmMFZyUGZpbzhzNG9zeStMQWxtd1ppbzROSmE2d0RocXdBaklhQUIvWTg0VGR1Ly9JaDRaRFRWeUNyYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYyNzU0CWZpbGU6ZHJpZnR5XzEuMTIuOV94NjQtc2V0dXAuZXhlCm00UEhEd1FLSkZ1TFZGa0IxTlhOQzZqWGExcEd2aHdxenU4UlhtcVZueUV3blpVZDRpYWE4R0dPTGs0VXphUnlKVXN6b1Zla3RncHNjMEdRbmJLRUJ3PT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.9-winbeta.1/drifty_1.12.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NaTGpmbi9IdnIxSFI2eDBDQzAzQWJKaUt0Q21PR3BEeUNFVGM1UjBISkFWc0VqZnBLRVhHZjFkTTYxdTBXYlNXdW1aOFRtSXBXNm9VOSs3VU00VlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyNjAzCWZpbGU6ZHJpZnR5XzEuMTIuMTFfeDY0LXNldHVwLmV4ZQpPVGNONmsvQkRUVDRNTGwza3NYN3RIditHOXVvWG1TNm5SclVOK1R3UXdTUmZEQ3o2eDRIREx3ZnVrdXgyTDBHV3AxUDRBbFJNZm5sbUl6cmQ2RlNCQT09Cg==",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.11-winbeta.1/drifty_1.12.11_x64-setup.exe"
     }
   }
 }
