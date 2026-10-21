@@ -1,11 +1,11 @@
 {
-  "version": "1.12.11",
-  "notes": "Updates the networking security dependencies used by the desktop app.",
-  "pub_date": "2026-10-19T09:07:51.751387Z",
+  "version": "1.13.0",
+  "notes": "Drifty 1.13.0 RC 1: timeline cards, definition sync, languages and desktop refinements.",
+  "pub_date": "2026-10-21T12:09:19.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NXV3JlbXN1cGRRRWdWWVlpQkdrUW4yRmpFRGF4cGgxVGN3eGN4OG1tWEZ4TnBGVUZ3d3Zsb1ppak0vRUcxUzN1aGJKeVRlZVlFc3pLU0NlV3lxNVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkxMjMxCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKUHlET3Bnblo0SW5YVGtKOHFNbmprNk00VzIzZWdpSEN2dDZhVXIydXR2UytBa05USGREbzhxUXMwaWxtaitqM0ZzUTg1M2xXWW52c2d1cVBwWk5SQlE9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.11-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0dEZTdqazRvWW4yOWQvcTEvdy9tQkZSUGxNWXVEdDlqTWZsVjZhS2RPa0haUGUwRFJGVFJyMFFyU2JJYjc0bm9FWlB0UmxMc3BUa2Yvb3g5MFRXWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc3MDkyCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKS1dLaXJPNmM4Qzk4OWU4VVNLTEJDYWRaYW1VWFRVZFNIeTczMWUxbWNFUGVSM1VFb0RtOUlreFhJaWZtQWlnQnVtTndRRGt6dW5MK0pyOUhOUUZTQ0E9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.0-rc.1/drifty.app.tar.gz"
     }
   }
 }
