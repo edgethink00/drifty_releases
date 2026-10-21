@@ -1,11 +1,11 @@
 {
-  "version": "1.12.11",
-  "notes": "Updates the networking security dependencies used by the desktop app.",
-  "pub_date": "2026-10-19T09:07:51.751Z",
+  "version": "1.13.0",
+  "notes": "Drifty 1.13.0 Windows beta 1: timeline cards, definition sync, languages and desktop refinements.",
+  "pub_date": "2026-10-21T12:09:19.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NaTGpmbi9IdnIxSFI2eDBDQzAzQWJKaUt0Q21PR3BEeUNFVGM1UjBISkFWc0VqZnBLRVhHZjFkTTYxdTBXYlNXdW1aOFRtSXBXNm9VOSs3VU00VlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyNjAzCWZpbGU6ZHJpZnR5XzEuMTIuMTFfeDY0LXNldHVwLmV4ZQpPVGNONmsvQkRUVDRNTGwza3NYN3RIditHOXVvWG1TNm5SclVOK1R3UXdTUmZEQ3o2eDRIREx3ZnVrdXgyTDBHV3AxUDRBbFJNZm5sbUl6cmQ2RlNCQT09Cg==",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.11-winbeta.1/drifty_1.12.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0VwTm4xNmM2VW9uNVRhSUJ3b00xK3Byb1FUb0VtbWxCTFhxWEI5MU9BTXJhNmtjeVVXUHM2MFQ1WmVZbHdGUDhnYW5weG1wZFBobHlzc0E5YnViandFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgzMTEwCWZpbGU6ZHJpZnR5XzEuMTMuMF94NjQtc2V0dXAuZXhlCndBRXEwTkpuWDZvNnhmU1J1eko2dWIxM2s3TVZpTCszNW5YemJzU1pPeXpDNWhGYXlDSy9hbGk2Mit3UmUrUG9mUllxMi85NHdZalFZY01QQ3dHb0N3PT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.0-winbeta.1/drifty_1.13.0_x64-setup.exe"
     }
   }
 }
