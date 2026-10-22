@@ -1,11 +1,11 @@
 {
-  "version": "1.13.0",
-  "notes": "Drifty 1.13.0 RC 1: timeline cards, definition sync, languages and desktop refinements.",
-  "pub_date": "2026-10-21T12:09:19.000Z",
+  "version": "1.13.1",
+  "notes": "Drifty 1.13.1 RC 1: Siamese pet markings, pet reappearing after restart, tracking and diagnostics fixes.",
+  "pub_date": "2026-10-22T07:00:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0dEZTdqazRvWW4yOWQvcTEvdy9tQkZSUGxNWXVEdDlqTWZsVjZhS2RPa0haUGUwRFJGVFJyMFFyU2JJYjc0bm9FWlB0UmxMc3BUa2Yvb3g5MFRXWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc3MDkyCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKS1dLaXJPNmM4Qzk4OWU4VVNLTEJDYWRaYW1VWFRVZFNIeTczMWUxbWNFUGVSM1VFb0RtOUlreFhJaWZtQWlnQnVtTndRRGt6dW5MK0pyOUhOUUZTQ0E9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0k3Ymw1eEdZc0xNOVN1NmtVQjl3NFRpQ1FvaC9BcldrSkRXY0VsS0xZR0xXMkpYcWN1QkZJSkhKUE1JRERaazF0RVFlWUdmclptVUNtU3dGaEFoMVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQzNTYzCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKZkYrUERUbG1HZTBOdUJNbm1xaXBKYXpMRS96ODNPRUYxc3lYUVE2MkpQZnhRQUVSS0JyQ1J2eGpyU3ZYNE8zU1NUSkN2QThYYVJmVjJBRzNpM0tpQUE9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.1-rc.1/drifty.app.tar.gz"
     }
   }
 }
