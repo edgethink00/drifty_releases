@@ -1,11 +1,11 @@
 {
-  "version": "1.13.0",
-  "notes": "Drifty 1.13.0 Windows beta 1: timeline cards, definition sync, languages and desktop refinements.",
-  "pub_date": "2026-10-21T12:09:19.000Z",
+  "version": "1.13.1",
+  "notes": "Drifty 1.13.1 Windows beta 1: Siamese pet markings, pet reappearing after restart, WebView startup and crash fixes.",
+  "pub_date": "2026-10-22T07:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0VwTm4xNmM2VW9uNVRhSUJ3b00xK3Byb1FUb0VtbWxCTFhxWEI5MU9BTXJhNmtjeVVXUHM2MFQ1WmVZbHdGUDhnYW5weG1wZFBobHlzc0E5YnViandFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgzMTEwCWZpbGU6ZHJpZnR5XzEuMTMuMF94NjQtc2V0dXAuZXhlCndBRXEwTkpuWDZvNnhmU1J1eko2dWIxM2s3TVZpTCszNW5YemJzU1pPeXpDNWhGYXlDSy9hbGk2Mit3UmUrUG9mUllxMi85NHdZalFZY01QQ3dHb0N3PT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.0-winbeta.1/drifty_1.13.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0IrWTJLZjJ2dmJYMWFqRUlaTkU1TzUrY1pQODcwd2tKK3NON3hGSDZET3hNSTAyVE1WbEhWMTFHMXdWUG5kTUFUMlkrT2xET3dYS1pwK1p1U0dkTUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2OTI0CWZpbGU6ZHJpZnR5XzEuMTMuMV94NjQtc2V0dXAuZXhlCmNGaHJvSmluYTE2YWxkc2x1NmhUTGJaN3ovcmdhUHhrMEQ1aWoxdElYTmMxUHNSQ0Q1OHN0NHVBZU1yZVZnSDJNSmIzcllabitSN2p6REo1L2NZNURBPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.1-winbeta.1/drifty_1.13.1_x64-setup.exe"
     }
   }
 }
