@@ -1,11 +1,11 @@
 {
-  "version": "1.12.11",
-  "notes": "Updates the networking security dependencies used by the desktop app.",
-  "pub_date": "2026-10-19T09:20:00.000Z",
+  "version": "1.13.1",
+  "notes": "Adds Day and Week timeline cards, device sync for categories, projects and rules, five new languages and site exclusions, plus pet and Windows startup reliability fixes.",
+  "pub_date": "2026-10-22T07:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0NaTGpmbi9IdnIxSFI2eDBDQzAzQWJKaUt0Q21PR3BEeUNFVGM1UjBISkFWc0VqZnBLRVhHZjFkTTYxdTBXYlNXdW1aOFRtSXBXNm9VOSs3VU00VlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyNjAzCWZpbGU6ZHJpZnR5XzEuMTIuMTFfeDY0LXNldHVwLmV4ZQpPVGNONmsvQkRUVDRNTGwza3NYN3RIditHOXVvWG1TNm5SclVOK1R3UXdTUmZEQ3o2eDRIREx3ZnVrdXgyTDBHV3AxUDRBbFJNZm5sbUl6cmQ2RlNCQT09Cg==",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.12.11-win/drifty_1.12.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0IrWTJLZjJ2dmJYMWFqRUlaTkU1TzUrY1pQODcwd2tKK3NON3hGSDZET3hNSTAyVE1WbEhWMTFHMXdWUG5kTUFUMlkrT2xET3dYS1pwK1p1U0dkTUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2OTI0CWZpbGU6ZHJpZnR5XzEuMTMuMV94NjQtc2V0dXAuZXhlCmNGaHJvSmluYTE2YWxkc2x1NmhUTGJaN3ovcmdhUHhrMEQ1aWoxdElYTmMxUHNSQ0Q1OHN0NHVBZU1yZVZnSDJNSmIzcllabitSN2p6REo1L2NZNURBPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.1-win/drifty_1.13.1_x64-setup.exe"
     }
   }
 }
