@@ -1,11 +1,11 @@
 {
-  "version": "1.13.1",
-  "notes": "Adds Day and Week timeline cards, device sync for categories, projects and rules, five new languages and site exclusions, plus pet and Windows startup reliability fixes.",
-  "pub_date": "2026-10-22T07:00:00.000Z",
+  "version": "1.14.0",
+  "notes": "Uses one AI connection for classification, projects and titles, adds your own OpenAI or Anthropic key, opens with your saved sign-in when offline and introduces Drifty for iPhone.",
+  "pub_date": "2026-10-23T07:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0IrWTJLZjJ2dmJYMWFqRUlaTkU1TzUrY1pQODcwd2tKK3NON3hGSDZET3hNSTAyVE1WbEhWMTFHMXdWUG5kTUFUMlkrT2xET3dYS1pwK1p1U0dkTUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ2OTI0CWZpbGU6ZHJpZnR5XzEuMTMuMV94NjQtc2V0dXAuZXhlCmNGaHJvSmluYTE2YWxkc2x1NmhUTGJaN3ovcmdhUHhrMEQ1aWoxdElYTmMxUHNSQ0Q1OHN0NHVBZU1yZVZnSDJNSmIzcllabitSN2p6REo1L2NZNURBPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.13.1-win/drifty_1.13.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FSVkVJMGE2TDdFTW5RU3d1SDI5UGFuUi9Hc1ZFWkdiWHhMQnN2bWdDNnRIRVhrbUw4RXhET3NKa0ZuYmhmQ0p6NEZnOWtVL1BXS212TnBybE56YWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM3NTU0CWZpbGU6ZHJpZnR5XzEuMTQuMF94NjQtc2V0dXAuZXhlClRENlU4SFMrMEttY0JYcXRxKzA1dVNGR0VxSURZOUYzczE2R2Q1QTAwLzdtSWZjcXpRb0YycUVabnJCSlUydlRCTE5BNDkrTzlMTDUxN01TWUFGZkRRPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.14.0-win/drifty_1.14.0_x64-setup.exe"
     }
   }
 }
