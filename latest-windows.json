@@ -1,11 +1,11 @@
 {
-  "version": "1.14.0",
-  "notes": "Uses one AI connection for classification, projects and titles, adds your own OpenAI or Anthropic key, opens with your saved sign-in when offline and introduces Drifty for iPhone.",
-  "pub_date": "2026-10-23T07:00:00.000Z",
+  "version": "1.15.0",
+  "notes": "Shows alert cards above the taskbar, closes Edge tabs with vertical tabs on, starts Local AI under non-ASCII user folders, no longer holds up shutdown and keeps your saved sign-in at launch.",
+  "pub_date": "2026-10-25T16:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FSVkVJMGE2TDdFTW5RU3d1SDI5UGFuUi9Hc1ZFWkdiWHhMQnN2bWdDNnRIRVhrbUw4RXhET3NKa0ZuYmhmQ0p6NEZnOWtVL1BXS212TnBybE56YWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM3NTU0CWZpbGU6ZHJpZnR5XzEuMTQuMF94NjQtc2V0dXAuZXhlClRENlU4SFMrMEttY0JYcXRxKzA1dVNGR0VxSURZOUYzczE2R2Q1QTAwLzdtSWZjcXpRb0YycUVabnJCSlUydlRCTE5BNDkrTzlMTDUxN01TWUFGZkRRPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.14.0-win/drifty_1.14.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK04ySXhjeC8wUzJmQkdqZUl0T3NvUFNmRlpTcXdVSi9ndUY3bytQR1g2b1NHaTc0cFkvUHVpbi9maTFWcjZkbGJ1aU5XSGpmejJjYjV0dXJuUTJRSUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ0OTk1CWZpbGU6ZHJpZnR5XzEuMTUuMF94NjQtc2V0dXAuZXhlCi9uam5zaG9iMlVOZTRWNWFWaU9oQWd0K1FYd3F1U21jQzZrb0RQVk13S01WdjIra3A5YXpiTG1IWVJwVEk1c1FCSXRVN29JL2FDbXpLcFVlNWxES0JnPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.15.0-win/drifty_1.15.0_x64-setup.exe"
     }
   }
 }
