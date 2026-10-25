@@ -1,11 +1,11 @@
 {
-  "version": "1.14.0",
-  "notes": "Drifty 1.14.0 RC 1: one AI connection, your own OpenAI or Anthropic key, offline saved sign-in, iPhone sync controls and in-place results.",
-  "pub_date": "2026-10-23T07:00:00.000Z",
+  "version": "1.15.0",
+  "notes": "Drifty 1.15.0 RC 1: saved sign-in kept at launch (fixes the 1.14.0 known issue), 72-hour first-run import, an independent Mac tracker runtime and screenshot paste in feedback.",
+  "pub_date": "2026-10-25T16:00:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01oRWVsTGhiNjNIbEZVV2dtMW4vSXZ4UWVBcnFYOHRUZkViamh5UmZVSGIzRm1BMVBxYkVUQnRGSkdpT0dPM0JuM2pFZHFFK2J5WU9oam1kOVpiMFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMzNzY4CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKWVUya3JFSzVYMTQ1SFRlK0xHbHBBMEZETUZ5K0VaSEZXWkpLS0JZVGl4cWlBMWsrd0FVMXBFdy9GQzNJMXBndmxPR3ZOMFRtK0lacWp1RkFzRDZIQ1E9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.14.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0Nhd3JRYnozbEIyelRqVk42eFk5a0duWDhVclJCdWN6TFV0dFBmR1p5dDF0TVJrM1dQclpuZktjOXAra1Bzcm0rb25qWG5BTE52SmR0TDZ1UVRkN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQwNjc0CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRUZVRjR5QWg1ejRXakREM3FFZHFqYkxQRXFyQkczV1kvR054Y09kMGp0dGZEWFdLR1hEcFZEUGVzSjB3d1lsR2dmdU1MMXkrOFg1Y3VibFpjUGxmQ3c9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.15.0-rc.1/drifty.app.tar.gz"
     }
   }
 }
