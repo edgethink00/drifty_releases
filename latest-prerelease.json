@@ -1,11 +1,11 @@
 {
-  "version": "1.15.0",
-  "notes": "Drifty 1.15.0 RC 1: saved sign-in kept at launch (fixes the 1.14.0 known issue), 72-hour first-run import, an independent Mac tracker runtime and screenshot paste in feedback.",
-  "pub_date": "2026-10-25T16:00:00.000Z",
+  "version": "1.16.0",
+  "notes": "Chat beta, document attachments, model and effort controls, recording preferences, timeline improvements, and Teams beta refinements. Developer preview.",
+  "pub_date": "2026-10-27T02:07:34.616439Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0Nhd3JRYnozbEIyelRqVk42eFk5a0duWDhVclJCdWN6TFV0dFBmR1p5dDF0TVJrM1dQclpuZktjOXAra1Bzcm0rb25qWG5BTE52SmR0TDZ1UVRkN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQwNjc0CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRUZVRjR5QWg1ejRXakREM3FFZHFqYkxQRXFyQkczV1kvR054Y09kMGp0dGZEWFdLR1hEcFZEUGVzSjB3d1lsR2dmdU1MMXkrOFg1Y3VibFpjUGxmQ3c9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.15.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0F2WDV6SUJ2ZU9PYU8zTlM3emF5ZEwwQ0FsMmVTV0x5dzlka1BxSGh5bGpXaVdkTS8vQXN5anYvNFhJZHhwczZ6ZVdIanRZTjZkQ3lwSTZhbk8xSXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1Njg3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKT3ErdDJHem43Z3FOeHpLNkNPQ2JLMHRJeXdsbTZhdmNlTEpFK21BY3FRd0FuTVZhZVRIL0VSOUNzTENZb0VyQktJRlpJSVp5RDFxMmJwY1JEM1MvQWc9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.0-rc.1/drifty.app.tar.gz"
     }
   }
 }
