@@ -1,11 +1,11 @@
 {
-  "version": "1.15.0",
-  "notes": "Drifty 1.15.0 Windows beta 1: alert cards above the taskbar, Edge vertical-tab close, Local AI under non-ASCII user folders, no shutdown hold and saved sign-in kept at launch.",
-  "pub_date": "2026-10-25T16:00:00.000Z",
+  "version": "1.16.0",
+  "notes": "Chat beta, document attachments, model and effort controls, recording preferences, timeline improvements, and Teams beta refinements. Developer preview.",
+  "pub_date": "2026-10-27T02:07:34.616Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK04ySXhjeC8wUzJmQkdqZUl0T3NvUFNmRlpTcXdVSi9ndUY3bytQR1g2b1NHaTc0cFkvUHVpbi9maTFWcjZkbGJ1aU5XSGpmejJjYjV0dXJuUTJRSUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ0OTk1CWZpbGU6ZHJpZnR5XzEuMTUuMF94NjQtc2V0dXAuZXhlCi9uam5zaG9iMlVOZTRWNWFWaU9oQWd0K1FYd3F1U21jQzZrb0RQVk13S01WdjIra3A5YXpiTG1IWVJwVEk1c1FCSXRVN29JL2FDbXpLcFVlNWxES0JnPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.15.0-winbeta.1/drifty_1.15.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0JwZnNkSWFLREJrYkFKcjFLeksrTHg2SjZXYWVnalhaUGhZUXNYSjhTQWxYV0FCRW1CS08rdjY0TWxiempmdk0vWlBvekgvU0RJcTE0UWUvb0xqNWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDYzNDQ0CWZpbGU6ZHJpZnR5XzEuMTYuMF94NjQtc2V0dXAuZXhlCk1IeC9oalNxTE05Y1Q5YnNiZTIzVzlyZGs0NGFIamRPandJRDF2aTg1MWZHZEV2d0RaUzFVUGVxSHh5NFRXeGVwRTBGT3Z3Y0QxMHVvRVo2K2JyNkFnPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.0-winbeta.1/drifty_1.16.0_x64-setup.exe"
     }
   }
 }
