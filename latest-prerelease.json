@@ -1,11 +1,11 @@
 {
-  "version": "1.16.0",
-  "notes": "Chat beta, document attachments, model and effort controls, recording preferences, timeline improvements, and Teams beta refinements. Developer preview.",
-  "pub_date": "2026-10-27T02:07:34.616439Z",
+  "version": "1.16.1",
+  "notes": "Privacy fixes: excluded activity stays out of recent AI context and feedback memory learning. Developer preview.",
+  "pub_date": "2026-10-27T22:07:18.217505Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0F2WDV6SUJ2ZU9PYU8zTlM3emF5ZEwwQ0FsMmVTV0x5dzlka1BxSGh5bGpXaVdkTS8vQXN5anYvNFhJZHhwczZ6ZVdIanRZTjZkQ3lwSTZhbk8xSXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1Njg3CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKT3ErdDJHem43Z3FOeHpLNkNPQ2JLMHRJeXdsbTZhdmNlTEpFK21BY3FRd0FuTVZhZVRIL0VSOUNzTENZb0VyQktJRlpJSVp5RDFxMmJwY1JEM1MvQWc9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0xJSXEwY2phd2crL2xzMHpMcTlvYWgrWXlpT3M4aW9odDE3N1RoTjM0bWZVbUlqZTlUdFQ4V3lDcEdicWZ6UGtieVppeSt4bEZXempNT0ZCVEt4c1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM4NTg2CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKK3BqVnd1cVBUc3dTZENUbzRJUExvRXNvNjRSMW9sTjdMK3p5bWpGSy9wd3RzVkpBT0xEMCtxS1B6cVI2OVQxLzVFcm1hWlpCRitxVG52OVRQM0Z6Q1E9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.1-rc.1/drifty.app.tar.gz"
     }
   }
 }
