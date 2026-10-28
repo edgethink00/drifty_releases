@@ -1,11 +1,11 @@
 {
-  "version": "1.16.0",
-  "notes": "Chat beta, document attachments, model and effort controls, recording preferences, timeline improvements, and Teams beta refinements. Developer preview.",
-  "pub_date": "2026-10-27T02:07:34.616Z",
+  "version": "1.16.1",
+  "notes": "Privacy repair: excluded activity stays out of recent AI context and correction learning. Developer preview.",
+  "pub_date": "2026-10-28T09:32:41.804992Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0JwZnNkSWFLREJrYkFKcjFLeksrTHg2SjZXYWVnalhaUGhZUXNYSjhTQWxYV0FCRW1CS08rdjY0TWxiempmdk0vWlBvekgvU0RJcTE0UWUvb0xqNWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDYzNDQ0CWZpbGU6ZHJpZnR5XzEuMTYuMF94NjQtc2V0dXAuZXhlCk1IeC9oalNxTE05Y1Q5YnNiZTIzVzlyZGs0NGFIamRPandJRDF2aTg1MWZHZEV2d0RaUzFVUGVxSHh5NFRXeGVwRTBGT3Z3Y0QxMHVvRVo2K2JyNkFnPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.0-winbeta.1/drifty_1.16.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0haempzcEJtZ0tqeHlRRFpOSVVyMVJOSWVDMytNekJFVzVhOFNHSkowdzJEZ0hkN1M4Ry9nMytCeUpjNjFwSXBvMDM4cnZ6b3Y5Q2VlTk1neCtLOXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTc4MDgwCWZpbGU6ZHJpZnR5XzEuMTYuMV94NjQtc2V0dXAuZXhlCnc3YWU3UVhRVE1ZTFhrMXh1emJ6Uk9WdERZVGpJMFczQzFjL1ZVc0JoWmhTck9UL2IxS2NIU29wbUMxM09JZmpWUDdKenIxTFV5d3ptR01yYzEyMkJBPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.1-winbeta.1/drifty_1.16.1_x64-setup.exe"
     }
   }
 }
