@@ -1,11 +1,11 @@
 {
-  "version": "1.16.1",
-  "notes": "Privacy fixes: excluded activity stays out of recent AI context and feedback memory learning. Developer preview.",
-  "pub_date": "2026-10-27T22:07:18.217505Z",
+  "version": "1.17.0",
+  "notes": "Your Day and Projects improvements, account/settings refinements, and personal API keys for Pro. Developer candidate; screen recording is excluded.",
+  "pub_date": "2026-10-29T09:51:39.095148Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0xJSXEwY2phd2crL2xzMHpMcTlvYWgrWXlpT3M4aW9odDE3N1RoTjM0bWZVbUlqZTlUdFQ4V3lDcEdicWZ6UGtieVppeSt4bEZXempNT0ZCVEt4c1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM4NTg2CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKK3BqVnd1cVBUc3dTZENUbzRJUExvRXNvNjRSMW9sTjdMK3p5bWpGSy9wd3RzVkpBT0xEMCtxS1B6cVI2OVQxLzVFcm1hWlpCRitxVG52OVRQM0Z6Q1E9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.16.1-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FreWlGVGl0T0tML0RvMzl0dUhjaWpsVTRmYmFwZlpBNm1kSEQ2c2szeFVQOFRacXhCUmo2VlNLV0w3N2RCZ2VFVVQ3Snc4UU55YVBvRTl3Y1YwMWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYyNzY5CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRFNaVVdqMUZ2OUpmVkNnRzA0U3FIeWlEY3JJQ0NuMFNhUnpGYkl1b3d2bS9QYWx0d3BKQ2xjajFObjRQeEMwNEFhalFyMG9WazJGUHNkc1FqRjM2QVE9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.17.0-rc.1/drifty.app.tar.gz"
     }
   }
 }
