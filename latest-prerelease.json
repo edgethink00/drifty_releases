@@ -1,11 +1,11 @@
 {
-  "version": "1.17.0",
-  "notes": "Your Day and Projects improvements, account/settings refinements, and personal API keys for Pro. Developer candidate; screen recording is excluded.",
-  "pub_date": "2026-10-29T09:51:39.095148Z",
+  "version": "1.18.0",
+  "notes": "Previous dashboard layout option, Team email invites, clearer date navigation and Chat, native tracking and Pet fixes. Fixes clipped empty-day recording guidance. Developer candidate; screen recording is excluded.",
+  "pub_date": "2026-10-30T20:27:02.695897+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FreWlGVGl0T0tML0RvMzl0dUhjaWpsVTRmYmFwZlpBNm1kSEQ2c2szeFVQOFRacXhCUmo2VlNLV0w3N2RCZ2VFVVQ3Snc4UU55YVBvRTl3Y1YwMWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYyNzY5CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRFNaVVdqMUZ2OUpmVkNnRzA0U3FIeWlEY3JJQ0NuMFNhUnpGYkl1b3d2bS9QYWx0d3BKQ2xjajFObjRQeEMwNEFhalFyMG9WazJGUHNkc1FqRjM2QVE9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.17.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0xsVk9jc3FwM1ZRZDRjZVFBM01MbmZseVMrWjA2RTJJaFlvdGtUbmdTWmNKUGVHMUVaQkVTbEpnbldJVndtNGprOStrSE80VXYzdGgvYUlVVXJPRGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkxNDA4CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRTZ1T0hkS2NJcXZCMXlWU1YzM0N6ZHNUYzd4NWJVbWdCb3EvdXpWcTl2eXRhSkZXSVJKUWlESEZ6OE11SU9LcnlISWQrZ29KOTVERVdNaXhkakM1REE9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.18.0-rc.1/drifty.app.tar.gz"
     }
   }
 }
