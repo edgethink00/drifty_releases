@@ -1,11 +1,11 @@
 {
-  "version": "1.18.0",
-  "notes": "Your Day, Projects, Chat and settings improvements, the previous Day/Week layout option, and Teams beta invitations. Developer candidate; screen recording runtime remains excluded.",
-  "pub_date": "2026-11-01T00:00:00.344Z",
+  "version": "1.19.0",
+  "notes": "Date jump calendar in Your Day and Your Week, in-place delete confirmation and onboarding language button. Developer candidate; screen recording remains excluded on Windows.",
+  "pub_date": "2026-11-01T17:45:38.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0g3TWpyaktaVFBjcGFDanpBaHVwaHdSVHZ1UHk4Sk1OUElLMUNrM2JDNlhKbHlJODJ4Q1Nia0M2Q2JMenpqYXVpRytIaExIK2FwTngzU0xUS0NoL3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA0MTkxCWZpbGU6ZHJpZnR5XzEuMTguMF94NjQtc2V0dXAuZXhlCmFSMXlwMncxdUpsbGw0eW91WkltY2pWcmdVMmNyZVVFNG9CSTFVNkgzRHYrMlh6VzRiNUJOcTNvZ2ZEeHJtK21jK25CV292Q3JLam1Pc3BCRTRMREJRPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.18.0-winbeta.1/drifty_1.18.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0cxU0hpcTFSVndvaktuK2xNcURkOCtmb0FqQ3A0QWFOdXZ0V0lJK3lzMVdkRlNzOHAzeDJmbGgzMUtuZmZkdU94Nkx5NnFSbXhaRFJsUGZJbE5MSEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTU0NTY0CWZpbGU6ZHJpZnR5XzEuMTkuMF94NjQtc2V0dXAuZXhlCkhaQmxxZDh6aHNhSGtjR1owY21OREJTTTlYbDdGWXB5bUFKV2UzaDNrOXl6SUVmSWpya0MzcUtFT3JqSElhalZTSEFjc0VXbzQ4anZ4VWhlbFZTSER3PT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.19.0-winbeta.1/drifty_1.19.0_x64-setup.exe"
     }
   }
 }
