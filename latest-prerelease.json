@@ -1,11 +1,11 @@
 {
-  "version": "1.18.0",
-  "notes": "Previous dashboard layout option, Team email invites, clearer date navigation and Chat, native tracking and Pet fixes. Fixes clipped empty-day recording guidance. Developer candidate; screen recording is excluded.",
-  "pub_date": "2026-10-30T20:27:02.695897+00:00",
+  "version": "1.19.0",
+  "notes": "Optional Mac screen recording (TextEdit and Preview screens kept on this computer for 24 hours, opt-in), date jump calendar in Your Day and Your Week, in-place delete confirmation, onboarding language button. Developer candidate.",
+  "pub_date": "2026-11-01T17:43:24.627Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0xsVk9jc3FwM1ZRZDRjZVFBM01MbmZseVMrWjA2RTJJaFlvdGtUbmdTWmNKUGVHMUVaQkVTbEpnbldJVndtNGprOStrSE80VXYzdGgvYUlVVXJPRGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkxNDA4CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKRTZ1T0hkS2NJcXZCMXlWU1YzM0N6ZHNUYzd4NWJVbWdCb3EvdXpWcTl2eXRhSkZXSVJKUWlESEZ6OE11SU9LcnlISWQrZ29KOTVERVdNaXhkakM1REE9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.18.0-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK1BDZzRXZWYvdjhSZlIxaVBqWVVCT3J1QmNQb0JtUFBwZlZobHJXSWZwdzAyT0VxQ1RvZmFKOHFUeldyVUs2QkJuWldUb0ZsWjBRK1YwZWpwN041SkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTUzNjg5CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKNThCemI3ZzZJN3QzekV3Qjdud1djbUo5Q0ZkS0lmTGVKMWRxQklqckVvUFMzenZ2d0JHdFozT0JJaHRXZ01qOHRhL0l5ZGxCekl1ekRISWJvYks3RFE9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.19.0-rc.1/drifty.app.tar.gz"
     }
   }
 }
