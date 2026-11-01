@@ -1,11 +1,11 @@
 {
-  "version": "1.17.0",
-  "notes": "Your Day and Projects improvements, clearer account/settings, and the Pro personal API. Developer candidate; screen recording runtime remains excluded.",
-  "pub_date": "2026-10-29T23:47:30.197Z",
+  "version": "1.18.0",
+  "notes": "Your Day, Projects, Chat and settings improvements, the previous Day/Week layout option, and Teams beta invitations. Developer candidate; screen recording runtime remains excluded.",
+  "pub_date": "2026-11-01T00:00:00.344Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK01LNW5CMDNUVlVic0hwRGlXV3Y5RkwyaHlQUlk1eU5sOXZuWVZ4WFY5RUdBUlFrczJZYjNPUVNOQTRYb3ZoSW5vQS9Ta0g3WHpxQm96WGN2dE9aQ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE3MTQ2CWZpbGU6ZHJpZnR5XzEuMTcuMF94NjQtc2V0dXAuZXhlClRKdzNFTWVBVVNwRzVaL0VhYVo0aS82cXNlQ2piZHE4S1dJY0dQd3FERXd4OFRCVDJZSC9mRCtSMXRQVW9QZG9yMkttQVRpaDlhQW1zbU1TUUs5ckJ3PT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.17.0-winbeta.1/drifty_1.17.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0g3TWpyaktaVFBjcGFDanpBaHVwaHdSVHZ1UHk4Sk1OUElLMUNrM2JDNlhKbHlJODJ4Q1Nia0M2Q2JMenpqYXVpRytIaExIK2FwTngzU0xUS0NoL3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA0MTkxCWZpbGU6ZHJpZnR5XzEuMTguMF94NjQtc2V0dXAuZXhlCmFSMXlwMncxdUpsbGw0eW91WkltY2pWcmdVMmNyZVVFNG9CSTFVNkgzRHYrMlh6VzRiNUJOcTNvZ2ZEeHJtK21jK25CV292Q3JLam1Pc3BCRTRMREJRPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.18.0-winbeta.1/drifty_1.18.0_x64-setup.exe"
     }
   }
 }
