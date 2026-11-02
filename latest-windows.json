@@ -1,11 +1,11 @@
 {
-  "version": "1.18.0",
-  "notes": "Drifty 1.18.0 for Windows: Your Day, Projects, Chat and settings improvements, a previous Day/Week layout option and Teams beta invitations.",
-  "pub_date": "2026-11-01T13:12:32.000Z",
+  "version": "1.19.2",
+  "notes": "Drifty 1.19.2 for Windows: a date-jump calendar in Your Day and Your Week, in-place delete confirmation and stability fixes.",
+  "pub_date": "2026-11-02T09:28:07.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0g3TWpyaktaVFBjcGFDanpBaHVwaHdSVHZ1UHk4Sk1OUElLMUNrM2JDNlhKbHlJODJ4Q1Nia0M2Q2JMenpqYXVpRytIaExIK2FwTngzU0xUS0NoL3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA0MTkxCWZpbGU6ZHJpZnR5XzEuMTguMF94NjQtc2V0dXAuZXhlCmFSMXlwMncxdUpsbGw0eW91WkltY2pWcmdVMmNyZVVFNG9CSTFVNkgzRHYrMlh6VzRiNUJOcTNvZ2ZEeHJtK21jK25CV292Q3JLam1Pc3BCRTRMREJRPT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.18.0-win/drifty_1.18.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0g1TEx6MzU3SjdQTTY2QkFGU2tYaENaQ2x0YWQ3VXNSaGVHTldZMkxzN1R5L3dhYWM4Z29NMWVDakVjL3NNeVkydHhUbS84aExZb0hxK0FmU3dLaGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAzMDUwCWZpbGU6ZHJpZnR5XzEuMTkuMl94NjQtc2V0dXAuZXhlCjdhRUF4NlBpUy9HcmYyeGZNUVE4bkZoNFErc1ZRWDgxSTlNNkFFTHlEZHBJWkZ4emJDQys0cnBwVWhpb2gySjlMNXRyRDhoeXJlTmNRVXNWWWVaa0N3PT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.19.2-win/drifty_1.19.2_x64-setup.exe"
     }
   }
 }
