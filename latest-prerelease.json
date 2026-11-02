@@ -1,11 +1,11 @@
 {
-  "version": "1.19.1",
-  "notes": "Mac screen recording setup shows a drag-to-allow panel beside System Settings when macOS does not list Drifty; AI provider timeouts are reported as timeouts. Developer candidate.",
-  "pub_date": "2026-11-02T02:39:06.000Z",
+  "version": "1.19.2",
+  "notes": "Screen recording setup asks you to drag Drifty to the top list; the window no longer shows a recording indicator; Drifty keeps running when a file panel or an app event fails; managed local AI checks its context budget first. Developer candidate.",
+  "pub_date": "2026-11-02T06:34:20.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0hoSkxsUW11QnRrVnNRTWE5UkFqTllodVJGektHVE5RMXdLNy9wV0lKZkg1V1J3aWRkbkpuNWN5NEVDcnFEdUl3dzg1UEk4cGNWTzBsc2QwU0F4S3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTg2MDgwCWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKN2g3YnVtcUlIajF5OEo3ekw0cTM5dmI2TFVENHlhbG1CK0VxQWVKMEdzZTNGTXZta3NGdHhiRVdjd0JSZlhyeFlLTVVaclVzUjhpWXNYOVkxYmMwRGc9PQo=",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.19.1-rc.1/drifty.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK1BqNDBQaTQzWWtlT1ZVdm8vYjFIM2lpYWZuNEdzdEVJb0lKcmFuYUhxRW91TXlpNEttYytmdmRlWVNPb2FnR1ZmbkRPMHlMa3AzVitTMWd4NVk0Z1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAwNDg0CWZpbGU6ZHJpZnR5LmFwcC50YXIuZ3oKM25oQUd4WkxORFNFcGlJaGZQQ3dxRkJyenFzbUxFY29ER0lKMVBEc1JFbjZRMUl3YWRWcHN2ZHBZa2gwYkRDTEI2T24vSytKQklXOVF0Qmxrb0RjRHc9PQo=",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.19.2-rc.1/drifty.app.tar.gz"
     }
   }
 }
