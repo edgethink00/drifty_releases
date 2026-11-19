@@ -1,14 +1,14 @@
 # drifty
 
-Context-aware AI time tracker for Mac and Windows.
+AI time tracker for Mac and Windows.
 
-drifty helps you understand where your day actually went by classifying desktop activity as Focus, Neutral, or Drift.
+drifty records the app, site and window in front of you and sorts your day into focus, drift and neutral time, without timers or tagging.
 
-Website: [https://drifty.so](https://drifty.so)
+Website: [drifty.so](https://drifty.so) · Source code: [edgethink00/drifty](https://github.com/edgethink00/drifty)
 
 ## About this repository
 
-This public repository contains signed release downloads, concise public release notes, and issue tracking for the drifty Mac and Windows apps. The application source code is private.
+This repository holds signed release downloads, concise public release notes, and the update feeds for the drifty Mac and Windows apps. The desktop app's source code is open source under AGPL-3.0 in [edgethink00/drifty](https://github.com/edgethink00/drifty); bugs and feature requests go there.
 
 ## Downloads
 
@@ -26,4 +26,4 @@ Public release history begins at 1.6.0. Retained older versions are unsupported 
 
 ## Feedback
 
-If you find a bug or have a feature request, please open an issue.
+Open an issue in [edgethink00/drifty](https://github.com/edgethink00/drifty/issues). Questions are welcome on [Discord](https://discord.gg/UGCtQAaDGN).
