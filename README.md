@@ -4,7 +4,7 @@ AI time tracker for Mac and Windows.
 
 drifty records the app, site and window in front of you and sorts your day into focus, drift and neutral time, without timers or tagging.
 
-Website: [drifty.so](https://drifty.so) · Source code: [edgethink00/drifty](https://github.com/edgethink00/drifty)
+Website: [drifty.so](https://drifty.so) · Source code: [edgethink00/drifty](https://github.com/edgethink00/drifty) · [Desktop release notes](https://github.com/edgethink00/drifty/releases)
 
 ## About this repository
 
