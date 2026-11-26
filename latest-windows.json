@@ -1,11 +1,11 @@
 {
-  "version": "1.19.2",
-  "notes": "Drifty 1.19.2 for Windows: a date-jump calendar in Your Day and Your Week, in-place delete confirmation and stability fixes.",
-  "pub_date": "2026-11-02T09:28:07.000Z",
+  "version": "1.24.0",
+  "notes": "Chrome tab detection and automatic closing are more reliable, with a rebuilt desktop experience.",
+  "pub_date": "2026-11-26T05:06:16.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0g1TEx6MzU3SjdQTTY2QkFGU2tYaENaQ2x0YWQ3VXNSaGVHTldZMkxzN1R5L3dhYWM4Z29NMWVDakVjL3NNeVkydHhUbS84aExZb0hxK0FmU3dLaGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjAzMDUwCWZpbGU6ZHJpZnR5XzEuMTkuMl94NjQtc2V0dXAuZXhlCjdhRUF4NlBpUy9HcmYyeGZNUVE4bkZoNFErc1ZRWDgxSTlNNkFFTHlEZHBJWkZ4emJDQys0cnBwVWhpb2gySjlMNXRyRDhoeXJlTmNRVXNWWWVaa0N3PT0K",
-      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.19.2-win/drifty_1.19.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ2NBZGI0VnlyK0FjU2dVY3RIMytScnUzWURiYmQweGN1Y05sbHJsOUd6L0tOUUxrSVZNV3VpdzdocUFwd0lTbVUvb0I3MlJHRzdiWnJoQmJqUElVUnJQdENqcSt5MEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY1MDkxCWZpbGU6ZHJpZnR5XzEuMjQuMF94NjQtc2V0dXAuZXhlClVXQkRLT1IrZkV1bnM2eVNkL0NZUGVhSEZ3Tmo0VUxIQ2JtV290aFZtL0Fzb1EraWp4VklDVno2RkJaeXhVMTRPVjBqNHVzYjVzdmpMOCsyL2Q0V0NnPT0K",
+      "url": "https://github.com/edgethink00/drifty_releases/releases/download/1.24.0-win/drifty_1.24.0_x64-setup.exe"
     }
   }
 }
